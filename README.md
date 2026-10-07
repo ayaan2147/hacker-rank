@@ -16,13 +16,6 @@ All solutions are in Python 3.
 | 4 | Compare the Triplets | Implementation | O(1) | O(1) | [solution.py](04-Compare-the-Triplets/solution.py) |
 | 5 | Sparse Arrays | Hash Maps | O(N + Q) | O(N) | [solution.py](05-Sparse-Arrays/solution.py) |
 
-## Screenshots
-Add your "Accepted" submission screenshots and badge screenshots to the `screenshots/` folder, then embed them here:
-
-```markdown
-![Diagonal Difference accepted](screenshots/01-diagonal-difference.png)
-![HackerRank badges](screenshots/badges.png)
-```
 
 ## Running locally
 ```bash
