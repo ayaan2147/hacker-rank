@@ -4,7 +4,7 @@ Activity 8: HackerRank Algorithmic Problem-Solving & Portfolio Integration (B25C
 All solutions are in Python 3.
 
 ## HackerRank Profile
-[REPLACE WITH YOUR PROFILE LINK](https://www.hackerrank.com/profile/ayaandell21)
+(https://www.hackerrank.com/profile/ayaandell21)
 
 ## Problems & Complexity
 
